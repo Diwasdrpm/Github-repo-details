@@ -10,6 +10,12 @@ I'm putting the screenshots you can see the results from here, you can comment o
 
 
 you have to just go to *Setting*
+
+
 Then scroll down and click on *Developer setting*
+
+
 Now you have to create *Your personal token*
+
+
 And then you do all the work of github through your Terminal of VS codeor any other IDE
